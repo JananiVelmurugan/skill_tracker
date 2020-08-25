@@ -37,7 +37,7 @@
     "factory": "^1.0.3",
     "font-awesome": "^4.7.0",
     "fullcalendar": "^3.9.0",
-    "highcharts": "^6.0.7",
+    "highcharts": "^7.2.2",
     "html2canvas": "^1.0.0-alpha.10",
     "jquery": "^3.3.1",
     "jquery-ui-dist": "^1.12.1",
